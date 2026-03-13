@@ -139,7 +139,7 @@ You: What foods can be grilled?
 
 ## 🖼️ Screenshots
 
-Screenshots of successful RAG system operation are available in the `screenshots/` folder of this repository, showing all 10 test queries and their responses.
+Screenshots of successful RAG system operation are available in the `screenshots/` folder of this repository, showing some test queries and their responses.
 
 ---
 
