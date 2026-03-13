@@ -7,7 +7,9 @@
 ## 👤 About This Fork
 
 This is a personalized and enhanced fork of the original [RAG Food repository](https://github.com/gocallum/ragfood).  
-
+**Enhanced by:** Ali Azan  
+**University:** Victoria University  
+**Subject:** AI Data Analyst Industry Project — Week 2 Assessment  
 
 ---
 
