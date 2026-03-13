@@ -448,5 +448,95 @@
   "text": "Suutei tsai is a traditional Mongolian milk tea made with green tea, milk, water, and salt.",
   "region": "Mongolia",
   "type": "Beverage"
-}
+},
+{
+    "id": "76",
+    "text": "Halwa Puri is a beloved Pakistani breakfast dish that is extremely popular in Lahore and other cities of Punjab. It consists of deep-fried puri bread made from refined flour, served alongside sweet semolina halwa cooked in ghee and sugar, spiced chickpea curry known as chana, and a tangy aloo bhaji made with potatoes. This dish holds deep cultural significance in Pakistani households and is traditionally served on weekends and special occasions. It is a vegetarian dish and is commonly found at street stalls across Pakistan early in the morning.",
+    "region": "Pakistan",
+    "type": "Breakfast"
+  },
+  {
+    "id": "77",
+    "text": "Sajji is a traditional slow-roasted Pakistani dish originating from the Balochistan province. It consists of a whole lamb or chicken marinated minimally with salt and sometimes papaya paste as a tenderizer, then skewered on a large metal rod and roasted over an open wood fire for several hours. The meat becomes incredibly tender and smoky on the outside while remaining juicy inside. Sajji is considered a ceremonial dish often prepared for weddings, festivals, and large gatherings. It is halal, gluten-free, and high in protein.",
+    "region": "Balochistan, Pakistan",
+    "type": "Main Course"
+  },
+  {
+    "id": "78",
+    "text": "Chapli Kebab is a signature Pakistani minced meat patty originating from Peshawar in the Khyber Pakhtunkhwa province. It is made from minced beef or mutton mixed with tomatoes, green chilies, coriander seeds, pomegranate seeds, onions, and eggs, then flattened into wide round patties and shallow fried in beef tallow. The result is a crispy exterior with a juicy, spicy interior. Chapli Kebab is a staple street food across Pakistan and is typically served with naan bread, sliced onions, and fresh coriander chutney. It is rich in protein and iron.",
+    "region": "Peshawar, Pakistan",
+    "type": "Main Course"
+  },
+  {
+    "id": "79",
+    "text": "Dum Pukht Biryani is a royal Pakistani rice dish cooked using the ancient dum cooking technique where marinated meat and partially cooked basmati rice are layered in a large pot, sealed with dough, and slow cooked over low heat. The steam trapped inside infuses the rice with rich flavors of saffron, cardamom, cinnamon, cloves, and caramelized onions. This method of cooking originated in the Mughal royal kitchens and is considered the most aromatic and flavorful biryani style. It is typically made with beef or mutton and is halal.",
+    "region": "Pakistan",
+    "type": "Main Course"
+  },
+  {
+    "id": "80",
+    "text": "Sheer Khurma is a traditional Pakistani and South Asian dessert prepared especially during Eid celebrations. It is a rich vermicelli pudding made by cooking thin roasted vermicelli noodles in full fat milk with dates, dried fruits such as almonds, pistachios, cashews, and raisins, sweetened with sugar and flavored with cardamom and rose water. The dish is creamy, fragrant, and deeply satisfying. It holds strong religious and cultural significance as it is the first food consumed after Eid prayers and symbolizes celebration, sweetness, and family togetherness. It is vegetarian.",
+    "region": "Pakistan",
+    "type": "Dessert"
+  },
+  {
+    "id": "81",
+    "text": "Salmon is one of the most nutritious fish available and is widely consumed as a healthy food globally. It is an excellent source of omega-3 fatty acids which are essential for heart health, brain function, and reducing inflammation in the body. A 100 gram serving of salmon provides approximately 25 grams of high quality protein, vitamin D, vitamin B12, selenium, and potassium. It can be grilled, baked, poached, or eaten raw as sashimi. Salmon is gluten-free, dairy-free, and suitable for pescatarian diets. Regular consumption is associated with reduced risk of heart disease and improved cognitive health.",
+    "region": "Global",
+    "type": "Seafood"
+  },
+  {
+    "id": "82",
+    "text": "Quinoa is a highly nutritious ancient grain originally cultivated by the Inca civilization in the Andes mountains of South America. Unlike most plant foods, quinoa is a complete protein containing all nine essential amino acids, making it exceptionally valuable for vegetarians and vegans. A single cup of cooked quinoa provides 8 grams of protein, 5 grams of dietary fiber, magnesium, iron, zinc, and folate. It is naturally gluten-free, low glycemic index, and suitable for people with celiac disease. Quinoa can be used as a substitute for rice, added to salads, or made into porridge.",
+    "region": "South America",
+    "type": "Grain"
+  },
+  {
+    "id": "83",
+    "text": "Avocado is a creamy, nutrient-dense fruit native to Central America that has become one of the most popular health foods worldwide. It is exceptionally rich in heart-healthy monounsaturated fats, particularly oleic acid which is the same fatty acid found in olive oil. Avocados are an excellent source of potassium, containing more than bananas, as well as folate, vitamin K, vitamin C, and dietary fiber. They are naturally cholesterol-free and sodium-free. Avocados are vegan, gluten-free, and paleo-friendly. They are commonly eaten on toast, in salads, as guacamole, or blended into smoothies.",
+    "region": "Central America",
+    "type": "Fruit"
+  },
+  {
+    "id": "84",
+    "text": "Greek Yogurt is a thick, strained yogurt that has been concentrated by removing excess whey, resulting in a creamy texture with significantly higher protein content than regular yogurt. A single cup of plain Greek yogurt provides up to 20 grams of protein, making it one of the best high-protein breakfast options available. It is also rich in probiotics which support gut health and immunity, as well as calcium, vitamin B12, and phosphorus. Greek yogurt is suitable for vegetarians and those following a low-carb or high-protein diet. It can be eaten with fruits, used as a substitute for sour cream, or blended into smoothies.",
+    "region": "Greece",
+    "type": "Dairy"
+  },
+  {
+    "id": "85",
+    "text": "Lentil Soup is a highly nutritious and affordable healthy meal consumed across the Middle East, South Asia, and Mediterranean regions. Lentils are one of the best plant-based sources of protein and fiber, with one cup of cooked lentils providing 18 grams of protein and 16 grams of dietary fiber. The soup is typically prepared by simmering red or green lentils with onions, garlic, cumin, turmeric, and lemon juice. Lentils are rich in iron, folate, and manganese. This dish is naturally vegan, gluten-free, and very low in fat, making it suitable for heart-healthy and diabetic-friendly diets.",
+    "region": "Middle East",
+    "type": "Soup"
+  },
+  {
+    "id": "86",
+    "text": "Margherita Pizza is the classic Italian pizza originating from Naples, Italy, considered the foundation of all modern pizzas. It was allegedly created in 1889 in honor of Queen Margherita of Italy and features the three colors of the Italian flag. It is made with a hand-stretched thin wheat dough base, topped with San Marzano tomato sauce, fresh buffalo mozzarella cheese, and fresh basil leaves, then baked at extremely high temperature in a wood-fired stone oven. The result is a crispy charred crust with a soft, chewy interior. Authentic Neapolitan Margherita Pizza is protected by UNESCO as an intangible cultural heritage.",
+    "region": "Naples, Italy",
+    "type": "Main Course"
+  },
+  {
+    "id": "87",
+    "text": "Tacos al Pastor is an iconic Mexican street food dish with roots in Lebanese shawarma brought to Mexico by Lebanese immigrants in the early 20th century. Thin slices of marinated pork are stacked on a vertical spit called a trompo, grilled slowly, and shaved off when cooked. The pork is marinated in dried chilies, achiote paste, pineapple, garlic, and cumin. It is served on small corn tortillas topped with fresh pineapple, chopped onion, coriander, and salsa verde. Tacos al Pastor is one of the most popular and beloved street foods in Mexico City and represents the fusion of Mexican and Middle Eastern culinary traditions.",
+    "region": "Mexico",
+    "type": "Main Course"
+  },
+  {
+    "id": "88",
+    "text": "Croissant is a buttery, flaky, crescent-shaped French pastry made using a laminated dough technique where layers of butter are folded into the dough repeatedly to create hundreds of thin, airy layers. The croissant originated in Austria as a kipferl but was perfected in France where it became a symbol of French bakery culture. A traditional croissant requires at least two days of preparation including resting and chilling the dough between folds. It is typically eaten as a breakfast pastry with jam, butter, or plain alongside coffee. Croissants are a vegetarian food and are a staple of French cafes and bakeries worldwide.",
+    "region": "France",
+    "type": "Breakfast"
+  },
+  {
+    "id": "89",
+    "text": "Jollof Rice is a West African one-pot rice dish that is arguably the most popular and debated dish across the African continent. It is made by cooking long grain rice in a rich, spiced tomato and pepper base along with onions, garlic, scotch bonnet chilies, and various seasonings. The rice absorbs all the flavors and develops a distinctive smoky taste when cooked in the traditional way over an open fire. Jollof Rice is commonly served at celebrations, parties, and family gatherings throughout Nigeria, Ghana, Senegal, and other West African countries. It is typically accompanied by fried plantains, coleslaw, and grilled chicken. It is naturally gluten-free.",
+    "region": "West Africa",
+    "type": "Main Course"
+  },
+  {
+    "id": "90",
+    "text": "Paella is Spain's most internationally recognized dish, originating from the Valencia region on the eastern coast of Spain. It is a large, shallow pan rice dish cooked over an open fire and characterized by its distinctive golden color from saffron spice. Traditional Valencian paella is made with short grain bomba rice, chicken, rabbit, green beans, butter beans, tomato, and rosemary. Seafood paella features prawns, mussels, squid, and clams. The rice develops a crispy caramelized bottom layer called socarrat which is considered the most prized part of the dish. Paella is gluten-free and is cooked using the absorption method where rice soaks up a rich homemade stock.",
+    "region": "Valencia, Spain",
+    "type": "Main Course"
+  }
 ]
