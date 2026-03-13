@@ -8,8 +8,8 @@
 
 This is a personalized and enhanced fork of the original [RAG Food repository](https://github.com/gocallum/ragfood).  
 **Enhanced by:** Ali Azan  
-**University:** University of Wollongong  
-**Subject:** AI Builder Program — Week 2 Assessment  
+**University:** Victoria University  
+**Subject:** AI Data Analyst Industry Project — Week 2 Assessment  
 
 ---
 
@@ -139,7 +139,7 @@ You: What foods can be grilled?
 
 ## 🖼️ Screenshots
 
-Screenshots of successful RAG system operation are available in the `screenshots/` folder of this repository, showing some test queries and their responses.
+Screenshots of successful RAG system operation are available in the `screenshots/` folder of this repository, showing all 10 test queries and their responses.
 
 ---
 
